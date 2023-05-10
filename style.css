@@ -1,29 +1,25 @@
-body {
-	background-color: #fff;
-}
-
-
 h1 {
 	font-size: 50px;
 	font-family: Arial;
+	color:#000;
+	font-weight: bold;
 }
 
 
 h2 {
-	color: #000;
+	color: #21B6A8;
 	font-size: 24px;
 	font-family: Arial;
-	padding-top: 20px;
-	padding-bottom: 40px;
-	font-weight: normal;
+	padding-bottom: 20px;
+	font-weight: bold;
 }
 
 
 h3 {
-	color: #c6abdc;
+	color: #000;
 	font-size: 20px;
 	font-family: Arial;
-	font-weight: normal;
+	font-weight: bold;
 }
 
 
@@ -35,44 +31,26 @@ p {
 }
 
 
-.info {
-	color: #000;
-	font-size: 12px;
-	font-style: italic;
-	font-family: Arial;
-}
-
-
-.footer {
-  position: relative;
-  left: 0;
-  bottom: -60px;
-  width: 100%;
-}
-
-
 a {
-	color: #6486c2;
+	color: #ECF87F;
 	text-decoration: none;
 	font-family: Arial;
 }
 
 
-button {
-	background-color: #f39b6f;
-	border: 2px solid #f39b6f;
-	padding: 15px 32px;
-	text-align: center;
-	display: block;
-	font-size: 16px;
-	color: #000;
+li {
+	text-decoration: none;
 	font-family: Arial;
-	font-weight: bold;
 }
 
+
 .content {
-  	max-width: 960px;
+  	max-width: 1100px;
   	margin: 0 auto;
   	padding: 0 20px 20px 20px;
 }
 
+body {
+ background-image: url("codioful-formerly-gradienta-UF_wwDxI6uk-unsplash.jpg");
+ background-color: #cccccc;
+}
